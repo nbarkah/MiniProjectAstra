@@ -283,11 +283,11 @@
     <extension name='xyformsservices' />
     <extension name='xyformsstorefrontcommons' />
     <extension name='xyformsweb' />
-    <extension dir="E:\SAPHybris\MiniProject\hybris\bin/custom/demogroup2/demogroup2core"/>
-    <extension dir="E:\SAPHybris\MiniProject\hybris\bin/custom/demogroup2/demogroup2backoffice"/>
-    <extension dir="E:\SAPHybris\MiniProject\hybris\bin/custom/demogroup2/demogroup2facades"/>
-    <extension dir="E:\SAPHybris\MiniProject\hybris\bin/custom/demogroup2/demogroup2fulfilmentprocess"/>
-    <extension dir="E:\SAPHybris\MiniProject\hybris\bin/custom/demogroup2/demogroup2initialdata"/>
-    <extension dir="E:\SAPHybris\MiniProject\hybris\bin/custom/demogroup2/demogroup2storefront"/>
+    <extension name='demogroup2core' />
+    <extension name='demogroup2backoffice' />
+    <extension name='demogroup2facades' />
+    <extension name='demogroup2fulfilmentprocess' />
+    <extension name='demogroup2initialdata' />
+    <extension name='demogroup2storefront' />
   </extensions>
 </hybrisconfig>
